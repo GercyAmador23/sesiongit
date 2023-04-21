@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Prueba de cambios
+=======
+Cambios a la nueva rama
+>>>>>>> Rama1
